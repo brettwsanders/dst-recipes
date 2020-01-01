@@ -1,0 +1,9 @@
+.header {
+  padding: 5px;
+  display: flex;
+  border: 1px solid black;
+  justify-content: space-around;
+}
+
+.header-name {
+}
